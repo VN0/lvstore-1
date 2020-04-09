@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/lvstore/static/css/main.880e8bb2.chunk.css",
+    "main.js": "/lvstore/static/js/main.5c0e5011.chunk.js",
+    "main.js.map": "/lvstore/static/js/main.5c0e5011.chunk.js.map",
+    "runtime-main.js": "/lvstore/static/js/runtime-main.d5532834.js",
+    "runtime-main.js.map": "/lvstore/static/js/runtime-main.d5532834.js.map",
+    "static/css/2.8c7e31f6.chunk.css": "/lvstore/static/css/2.8c7e31f6.chunk.css",
+    "static/js/2.3edccfb4.chunk.js": "/lvstore/static/js/2.3edccfb4.chunk.js",
+    "static/js/2.3edccfb4.chunk.js.map": "/lvstore/static/js/2.3edccfb4.chunk.js.map",
+    "index.html": "/lvstore/index.html",
+    "precache-manifest.c13706f523eaa68a9606e747aa68bb5f.js": "/lvstore/precache-manifest.c13706f523eaa68a9606e747aa68bb5f.js",
+    "service-worker.js": "/lvstore/service-worker.js",
+    "static/css/2.8c7e31f6.chunk.css.map": "/lvstore/static/css/2.8c7e31f6.chunk.css.map",
+    "static/css/main.880e8bb2.chunk.css.map": "/lvstore/static/css/main.880e8bb2.chunk.css.map",
+    "static/js/2.3edccfb4.chunk.js.LICENSE.txt": "/lvstore/static/js/2.3edccfb4.chunk.js.LICENSE.txt",
+    "static/media/Flames.png": "/lvstore/static/media/Flames.6fd43faf.png",
+    "static/media/Hify.png": "/lvstore/static/media/Hify.f6c17dc2.png",
+    "static/media/Media Toolbox.png": "/lvstore/static/media/Media Toolbox.7658ffd0.png",
+    "static/media/Paruvaththe Payir Sei.png": "/lvstore/static/media/Paruvaththe Payir Sei.c636a04f.png",
+    "static/media/Posizione.png": "/lvstore/static/media/Posizione.9ed9a413.png",
+    "static/media/Trivia.png": "/lvstore/static/media/Trivia.530a243c.png",
+    "static/media/developer.webp": "/lvstore/static/media/developer.afb15ada.webp",
+    "static/media/js.png": "/lvstore/static/media/js.62a1b582.png",
+    "static/media/python.png": "/lvstore/static/media/python.ba4fe738.png",
+    "static/media/reactlogo.png": "/lvstore/static/media/reactlogo.4ade5cac.png",
+    "static/media/index.css": "/lvstore/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5532834.js",
+    "static/css/2.8c7e31f6.chunk.css",
+    "static/js/2.3edccfb4.chunk.js",
+    "static/css/main.880e8bb2.chunk.css",
+    "static/js/main.5c0e5011.chunk.js"
+  ]
+}
