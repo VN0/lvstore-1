@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "534a50b359e3b4b624d740d31a6e4f12",
+    "revision": "6ce8b7e691d6516c99fbd2b467b95610",
     "url": "/lvstore/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lvstore/static/css/2.8c7e31f6.chunk.css"
   },
   {
-    "revision": "a90d6f62e15cd0e37a99",
+    "revision": "325135cbfc8e2fe25fed",
     "url": "/lvstore/static/css/main.880e8bb2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lvstore/static/js/2.3edccfb4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a90d6f62e15cd0e37a99",
-    "url": "/lvstore/static/js/main.5c0e5011.chunk.js"
+    "revision": "325135cbfc8e2fe25fed",
+    "url": "/lvstore/static/js/main.99550487.chunk.js"
   },
   {
     "revision": "ea5b2e618b3a9d8d1d65",

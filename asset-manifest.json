@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lvstore/static/css/main.880e8bb2.chunk.css",
-    "main.js": "/lvstore/static/js/main.5c0e5011.chunk.js",
-    "main.js.map": "/lvstore/static/js/main.5c0e5011.chunk.js.map",
+    "main.js": "/lvstore/static/js/main.99550487.chunk.js",
+    "main.js.map": "/lvstore/static/js/main.99550487.chunk.js.map",
     "runtime-main.js": "/lvstore/static/js/runtime-main.d5532834.js",
     "runtime-main.js.map": "/lvstore/static/js/runtime-main.d5532834.js.map",
     "static/css/2.8c7e31f6.chunk.css": "/lvstore/static/css/2.8c7e31f6.chunk.css",
     "static/js/2.3edccfb4.chunk.js": "/lvstore/static/js/2.3edccfb4.chunk.js",
     "static/js/2.3edccfb4.chunk.js.map": "/lvstore/static/js/2.3edccfb4.chunk.js.map",
     "index.html": "/lvstore/index.html",
-    "precache-manifest.c13706f523eaa68a9606e747aa68bb5f.js": "/lvstore/precache-manifest.c13706f523eaa68a9606e747aa68bb5f.js",
+    "precache-manifest.a073636df4cd0e3207573f69a4d4bfeb.js": "/lvstore/precache-manifest.a073636df4cd0e3207573f69a4d4bfeb.js",
     "service-worker.js": "/lvstore/service-worker.js",
     "static/css/2.8c7e31f6.chunk.css.map": "/lvstore/static/css/2.8c7e31f6.chunk.css.map",
     "static/css/main.880e8bb2.chunk.css.map": "/lvstore/static/css/main.880e8bb2.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/css/2.8c7e31f6.chunk.css",
     "static/js/2.3edccfb4.chunk.js",
     "static/css/main.880e8bb2.chunk.css",
-    "static/js/main.5c0e5011.chunk.js"
+    "static/js/main.99550487.chunk.js"
   ]
 }
