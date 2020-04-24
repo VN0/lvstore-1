@@ -9,7 +9,7 @@ import ShopIcon from "@material-ui/icons/Shop";
 import FacebookIcon from "@material-ui/icons/Facebook";
 import "typeface-roboto";
 
-function Header({ mainTitle, subTitle, buttonVisible, smoothScroll }) {
+const Header = ({ mainTitle, subTitle, buttonVisible, smoothScroll }) => {
   const fab = buttonVisible && (
     <IconButton
       style={{ position: "absolute", bottom: "30px" }}
@@ -92,6 +92,6 @@ function Header({ mainTitle, subTitle, buttonVisible, smoothScroll }) {
       {fab}
     </Box>
   );
-}
+};
 
 export default Header;

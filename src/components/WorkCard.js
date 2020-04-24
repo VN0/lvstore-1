@@ -21,7 +21,7 @@ const useStyles = makeStyles({
     height: 280,
   },
 });
-function WorkCard({ name, desc, downloadLink, gitLink }) {
+const WorkCard = ({ name, desc, downloadLink, gitLink }) => {
   const classes = useStyles();
   const gitHubButton = gitLink !== "" && (
     <Button
@@ -65,6 +65,6 @@ function WorkCard({ name, desc, downloadLink, gitLink }) {
       </CardActions>
     </Card>
   );
-}
+};
 
 export default WorkCard;

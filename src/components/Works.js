@@ -1,8 +1,8 @@
 import React from "react";
-import { Grid, Container, Typography } from "@material-ui/core";
+import { Grid, Typography } from "@material-ui/core";
 import WorkCard from "./WorkCard";
 import "typeface-roboto";
-function Works({ pageRef, gridItems }) {
+const Works = ({ pageRef, gridItems }) => {
   var items = undefined;
   if (gridItems == 2) {
     items = (
@@ -47,7 +47,8 @@ function Works({ pageRef, gridItems }) {
               name: "Media Toolbox",
               desc:
                 "The all in one ad-free toolkit for social media in a single app. It contains tools for WhatsApp, Instagram and YouTube. Much more will be added in upcoming releases",
-              downloadLink: "https://drive.google.com/uc?export=download&id=12lVvmbFSeamNswL4bPdwPxpCnlxMuOa5",
+              downloadLink:
+                "https://drive.google.com/file/d/12lVvmbFSeamNswL4bPdwPxpCnlxMuOa5/view?usp=sharing",
               gitLink: "https://github.com/lvamsavarthan/Media-Toolbox",
             },
             {
@@ -123,8 +124,9 @@ function Works({ pageRef, gridItems }) {
               name: "Media Toolbox",
               desc:
                 "The all in one ad-free toolkit for social media in a single app. It contains tools for WhatsApp, Instagram and YouTube. Much more will be added in upcoming releases",
-                downloadLink: "https://drive.google.com/uc?export=download&id=12lVvmbFSeamNswL4bPdwPxpCnlxMuOa5",
-                gitLink: "https://github.com/lvamsavarthan/Media-Toolbox",
+              downloadLink:
+                "https://drive.google.com/file/d/12lVvmbFSeamNswL4bPdwPxpCnlxMuOa5/view?usp=sharing",
+              gitLink: "https://github.com/lvamsavarthan/Media-Toolbox",
             },
           ].map((e) => (
             <WorkCard {...e} />
@@ -186,6 +188,6 @@ function Works({ pageRef, gridItems }) {
       <Grid container>{items}</Grid>
     </div>
   );
-}
+};
 
 export default Works;
