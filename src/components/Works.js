@@ -4,7 +4,7 @@ import WorkCard from "./WorkCard";
 import "typeface-roboto";
 const Works = ({ pageRef, gridItems }) => {
   var items = undefined;
-  if (gridItems == 2) {
+  if (gridItems === 2) {
     items = (
       <>
         <Grid
@@ -93,7 +93,7 @@ const Works = ({ pageRef, gridItems }) => {
         </Grid>
       </>
     );
-  } else if (gridItems == 3) {
+  } else if (gridItems === 3) {
     items = (
       <>
         <Grid
